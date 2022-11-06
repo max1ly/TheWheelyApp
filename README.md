@@ -8,4 +8,4 @@
 * Jetpack Navigation
 
 Screenshots:
-![](screenshots/2022-11-06-18-30-38-emulator-5554.png) ![](screenshots/2022-11-06-18-30-54-emulator-5554.png)
+![](screenshots/2022-11-06-18-36-16-emulator-5554.png) ![](screenshots/2022-11-06-18-36-51-emulator-5554.png)
